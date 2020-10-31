@@ -1,5 +1,5 @@
 # HospitalTaskManager
 ### Some ScreenShots From the Inside :
-[Imgur](https://imgur.com/H1w56ba)
-[Imgur](https://imgur.com/QvNsCHv)
-[Imgur](https://imgur.com/Wkr3Ucy)
+![Dashboard](https://i.imgur.com/H1w56ba.png)
+[!Scan](https://i.imgur.com/QvNsCHv.png)
+![Ajouter Demande](https://i.imgur.com/Wkr3Ucy.png)
